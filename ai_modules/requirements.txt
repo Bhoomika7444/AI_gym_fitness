@@ -2,4 +2,4 @@ flask
 flask-cors
 numpy
 opencv-python-headless
-mediapipe
+mediapipe==0.10.9
